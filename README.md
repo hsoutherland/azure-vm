@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/5aaae969-1984-4242-ae3f-d1b00084e0db)
+<p align="center">
+  <img src="https://i.imgur.com/IvCp8TH.png" height="30%" width="30%">
+</p>
 
 <h1>Creating a Virtual Machine in Microsoft Azure</h1>
 In this tutorial, we will walk through how to create a virtual machine in Microsoft Azure. <br />
