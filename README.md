@@ -64,6 +64,6 @@ Enter the <b>username</b> and <b>password</b> that you provided to create the vi
 
 ![image](https://github.com/user-attachments/assets/13e395ff-2013-4904-a327-c6e6e2810d94)
 
-We are officially in our virtual machine!!! 👍
+We are officially in our virtual machine!!! 👍 A virtual machine is like a computer inside your computer. It lets you run different types of computers (called operating systems) at the same time on one real computer. This helps people test new programs, run old programs that don’t work on modern computers, and keep things safe by separating different tasks. It's useful for saving space, money, and time.
 
 
