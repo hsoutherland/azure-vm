@@ -3,16 +3,16 @@
 </p>
 
 <h1>Creating a Virtual Machine in Microsoft Azure</h1>
-In this tutorial, we will walk through how to create a Windows 10 virtual machine in Microsoft Azure. <br />
+In this tutorial, we will walk through how to create a Windows 10 virtual machine in Microsoft Azure. Virtual machines (VMs) are software-based emulations of physical computers that allow users to run multiple operating systems on a single device, providing isolation, flexibility, and resource efficiency. They are widely used for software testing, running legacy applications, server virtualization, and cloud computing, enabling efficient hardware utilization and cost savings.
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machines)
+- Remote Desktop Connection
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10
 
 <h2>Tutorial Outline</h2>
 
